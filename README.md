@@ -9,7 +9,7 @@ Third-year Computer Science Engineering student at **GEC Thrissur** with a **CGP
 * **Languages:** Python, Java, C, C++, Dart
 * **Frameworks:** Flutter, Django
 * **Databases:** PostgreSQL, Firebase
-* [cite_start]**Hardware:** ESP32, Arduino, and environmental sensors (pH, ORP, TDS) [cite: 178, 179, 181]
+* **Hardware:** ESP32, Arduino, and environmental sensors (pH, ORP, TDS) 
 
 ---
 
@@ -25,19 +25,19 @@ Third-year Computer Science Engineering student at **GEC Thrissur** with a **CGP
 ### 🚀 Featured Projects
 
 #### [Prawn Sentinel](https://github.com/Abhinand-Ullas/prawn_farming)
-[cite_start]An IoT-based water quality monitoring system for sustainable aquaculture in **Vypin, Ernakulam**[cite: 90, 102, 186].
-* [cite_start]Integrated **ESP32** with pH, Temperature, and TDS sensors to track virus triggers[cite: 175, 179].
+An IoT-based water quality monitoring system for sustainable aquaculture in **Vypin, Ernakulam**.
+* Integrated **ESP32** with pH, Temperature, and TDS sensors to track virus triggers.
 * Implemented **Deep Sleep power management** to ensure month-long field battery life.
 * Built a real-time data dashboard using **React and Firebase**.
 
 #### [LendLeaf](https://github.com/Pixelrick420/community_lib)
-[cite_start]A community book-sharing mobile app built with **Flutter**[cite: 3, 12].
-* [cite_start]Features a "Leaf Coin" digital currency to encourage sustainable reading[cite: 31, 51].
+A community book-sharing mobile app built with **Flutter**.
+* Features a "Leaf Coin" digital currency to encourage sustainable reading.
 * Utilizes **Firebase** for real-time book listings and user transactions.
 
 #### [NutriLifeguard](https://github.com/Abhinand-Ullas/Health_App)
 A full-stack health-tracking app tailored for regional diets in Kerala.
-* Architected using **Flutter** and **Django** with a **PostgreSQL** backend.
+* Architected using **Flutter** and **Supabase** with a **Firebase** authentication.
 * Calculates BMI and caloric needs based on a custom regional food database.
 
 ---
