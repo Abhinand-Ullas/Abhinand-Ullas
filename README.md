@@ -42,12 +42,9 @@ A full-stack health-tracking app tailored for regional diets in Kerala.
 
 ---
 
-### 📊 My GitHub Stats
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Abhinand-Ullas&layout=compact&theme=vision-friendly-dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinand-Ullas&layout=compact&theme=vision-friendly-dark)
-![GitHub Stats](https://github-readme-stats.vercel.app/api/stats/?username=Abhinand-Ullas&show_icons=true&theme=vision-friendly-dark)
-
----
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/stats/?username=Abhinand-Ullas&show_icons=true&theme=vision-friendly-dark)
 
 📫 **Let's Connect!**
 * Currently looking for **internships** and **technical collaborations** in App Dev and IoT.
