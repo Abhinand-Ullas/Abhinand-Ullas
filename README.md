@@ -1,4 +1,4 @@
-# Hi there, I'm [Abhinand Ullas P] 👋
+# Hi there, I'm Abhinand Ullas P 👋
 
 Third-year Computer Science Engineering student at **GEC Thrissur** with a **CGPA of 9.8**. I specialize in building integrated systems using **Internet of Things** and cross-platform mobile applications with **Flutter**.
 
@@ -8,7 +8,7 @@ Third-year Computer Science Engineering student at **GEC Thrissur** with a **CGP
 
 * **Languages:** Python, Java, C, C++, Dart
 * **Frameworks:** Flutter, Django
-* **Databases:** PostgreSQL, Firebase
+* **Databases:** Supabase, Firebase
 * **Hardware:** ESP32, Arduino, and environmental sensors (pH, ORP, TDS) 
 
 ---
